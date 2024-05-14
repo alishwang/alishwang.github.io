@@ -1,4 +1,5 @@
-baseURL = "http://139.9.32.7:1313/"
+# baseURL = "http://139.9.32.7:1313/"
+baseURL = "http://alishwang.github.io/"
 # profilejpg = "http://139.9.32.7:1313/alish.jpg"
 # title = "Hugo Themes"
 author = "Steve Francia"
@@ -20,7 +21,8 @@ title = "Paper"
   color = 'linen'
 
 #  avatar = '1944908881@qq.com'
-  avatar = "http://139.9.32.7:1313/alish.jpg"
+#  avatar = "http://139.9.32.7:1313/alish.jpg"
+  avatar = "http://alishwang.github.io/alish.jpg"
   name = 'FuHua'
   bio = 'Repeated defeats and battles'
 # ------------------------------
